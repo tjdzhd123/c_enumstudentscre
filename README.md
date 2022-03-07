@@ -6,3 +6,5 @@
 4. 성적프로그램 파일에 저장하기
 0. 종료
 
+![사진1](https://user-images.githubusercontent.com/100817617/156968107-aa559de9-6d18-4bd8-916f-6f4216e0bf39.png)
+![사진2](https://user-images.githubusercontent.com/100817617/156968113-94b4fdc9-6a0c-4e69-91a2-4b121a1a1686.png)
