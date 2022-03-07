@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1646620484 source:c:\workplace\c_studentscore\student.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1646621089 source:c:\workplace\c_studentscore\main.c
+	"student_dll.h"
+
+1646620334 c:\workplace\c_studentscore\student_dll.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
